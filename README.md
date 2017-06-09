@@ -5,6 +5,7 @@
 **Commands**
 - Initialization: `heroku create` 
 - Deployment: `git push heroku master`
+- Debugging: `heroku logs --tail`
 
 **URLs**
 - https://still-beach-81132.herokuapp.com/
