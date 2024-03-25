@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "4.15.3",
+    "express": "4.19.2",
     "pg": "6.2.4",
     "pg-hstore": "2.3.2",
     "sequelize": "4.0.0"
